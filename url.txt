@@ -1,1 +1,1 @@
-https://project-dashboard-rafi.streamlit.app
+https://rafi-dashboard.streamlit.app/
